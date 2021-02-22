@@ -16,4 +16,14 @@ I have sent this URL in response to an open call for speculative applications as
 
 ![](https://github.com/zarfraz/Engagementz/blob/main/Skillz.jpg)
 
+## 📚 Credentials
+
+N | Type | Profieciencies
+--- | --- | --- 
+1 | Masters | Clinical Research & Pharmacovigilance
+2 | Bachelors | Biomedical Sciences 
+3 | Diplomas | Multiple Tech and Non Tech Areas
+4 | Certifications | Mixture of Information Security + Wide range of technologies
+
+
 
