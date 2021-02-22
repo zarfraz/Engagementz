@@ -9,3 +9,5 @@ This github repository is my "cover letter". If you have found this stub, congra
 I have sent this URL in response to open call for speculative applications as advertised on your site. 
 
 # 🔍 About Myself
+
+![](https://github.com/zarfraz/Engagementz/blob/main/Skillz.jpg)
