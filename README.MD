@@ -8,6 +8,4 @@ This github repository is my "cover letter". If you have found this stub, congra
 
 I have sent this URL in response to open call for speculative applications as advertised on your site. 
 
-# About Myself
-
-I am a 
+# 🔍 About Myself
