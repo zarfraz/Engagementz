@@ -6,7 +6,7 @@ This github repository is my "cover letter". If you have found this stub, congra
 
 ## 👀 Why are you reading this ?
 
-I have sent this URL in response to open call for speculative applications as advertised on your site. 
+I have sent this URL in response to an open call for speculative applications as advertised on your site. 
 
 # 🔍 About Myself
 
