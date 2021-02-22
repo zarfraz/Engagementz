@@ -10,7 +10,7 @@ I have sent this URL in response to an open call for speculative applications as
 
 # 💼 Professional Experience 
 
-> The following is an overview of my capabilities. For further details 💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
+> The following is an overview of my capabilities. Details ↗️💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
 
 N | Time | Country | Position | Project 
 --- | --- | --- | --- | --- 
@@ -19,7 +19,7 @@ N | Time | Country | Position | Project
 
 # 🔍 About Myself
 
-> The following is an overview of my capabilities. For further details 💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
+> The following is an overview of my capabilities. Details ↗️💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
 
 ## ⚙️ Skillsets 
 
