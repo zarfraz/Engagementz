@@ -12,10 +12,12 @@ I have sent this URL in response to an open call for speculative applications as
 
 > The following is an overview of my capabilities. Details ↗️💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
 
-N | Time | Country | Position | Project 
---- | --- | --- | --- | --- 
-1 | 2018 - Current | 🇮🇳 
+N | Time | Areas | Position | Project | Locations
+--- | --- | --- | --- | --- | ---
+1 | 2018 - Current | Consulting | Freelance | Working with startups 
+2 | 2016 - 2018 | 
 
+🇮🇳
 
 # 🔍 About Myself
 
