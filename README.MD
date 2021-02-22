@@ -8,9 +8,18 @@ This github repository is my "cover letter". If you have found this stub, congra
 
 I have sent this URL in response to an open call for speculative applications as advertised on your site. 
 
+# 💼 Professional Experience 
+
+> The following is an overview of my capabilities. For further details 💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
+
+N | Time | Country | Position | Project 
+--- | --- | --- | --- | --- 
+1 | 
+
+
 # 🔍 About Myself
 
-> The following is an overview of my capabilities. For further details , feel free to peruse through my [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
+> The following is an overview of my capabilities. For further details 💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
 
 ## ⚙️ Skillsets 
 
