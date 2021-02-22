@@ -10,4 +10,10 @@ I have sent this URL in response to an open call for speculative applications as
 
 # 🔍 About Myself
 
+> The following is an overview of my capabilities. For further details , feel free to peruse through my [PROFESSIONAL PROFILE WEBSITE](www.sarfraz.xyz)
+
+## ⚙️ Skillsets 
+
 ![](https://github.com/zarfraz/Engagementz/blob/main/Skillz.jpg)
+
+
