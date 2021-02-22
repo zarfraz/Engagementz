@@ -23,7 +23,7 @@ N | Time | Country | Position | Project
 
 ## ⚙️ Skillsets 
 
-![](https://github.com/zarfraz/Engagementz/blob/main/Skillz.jpg)
+![](https://github.com/zarfraz/Engagementz/blob/main/skz.jpg)
 
 ## 📚 Credentials
 
