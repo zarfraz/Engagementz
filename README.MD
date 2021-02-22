@@ -10,4 +10,4 @@ I have sent this URL in response to open call for speculative applications as ad
 
 # 🔍 About Myself
 
-![](https://github.com/zarfraz/Engagementz/blob/main/Skillz.jpg)
+![](https://github.com/zarfraz/Engagementz/blob/main/s.jpg)
