@@ -13,9 +13,9 @@ I have sent this URL in response to an open call for speculative applications as
 > The following is an overview of my capabilities. Details ↗️💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
 
 N | Time | Areas | Position | Location | Project 
---- | --- | --- | --- | --- | ---
-1 | 2018 - Current | Consulting | Freelance | .in .us Multiple
-2 | 2016 - 2018 | 
+--- | --- | --- | --- | :---: | :---:
+1 | 2018 - Current | Consulting | Freelance | India <br> USA <br> Multiple Locations | Working with startus in the <br> areas of <br> Information Security, AI/ML
+2 | 2016 - 2018 | Product Owner <br> R&D | Contract | Ireland | Development of IBM WATSON based application <br> for healthcare <br> Client - Center of Medicaid & <br> Medicare Services U.S.A
 
 🇮🇳
 
