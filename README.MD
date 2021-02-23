@@ -54,6 +54,8 @@ N | Type | Proficiencies
 
 > For further details please visit ↗️💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
 
+![](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)
+
 
 
 
