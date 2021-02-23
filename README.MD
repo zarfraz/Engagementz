@@ -19,6 +19,7 @@ N | Time | Areas | Position | Location | Client | Project
 1 | 2018 - Current | Consulting | Freelance | India <br> USA <br> Multiple Locations | Startups <br> PreSeed Stage <br> Seed Stage |Working with startups in the <br> areas of <br> Information Security, AI/ML
 2 | 2017 - 2018 | Product Owner <br> R&D | Contract | Ireland | U.S.A Government <br> CMS <br> Centers of Medicare & <br> Medicaid Services |Development of IBM WATSON based application for healthcare 
 3 | 2015 - 2016 | Product Owner <br> Business Analyst <br> Tester | Contract |  Dubai, U.A.E <br> Doha, Qatar |U.A.E Health Ministry <br> QATAR Health Ministry  | **ABHATH Doha,QATAR** <br> Clinical Research <br> Management System <br> **SmartHASD Dubai,U.A.E** <br> Health Insurance <br> Analytics Platform| 
+4 | 2015 - Present | Founder | | | | _PreSeed Stage_ <br> OnHold
 
 
 # 🔍 About Myself
