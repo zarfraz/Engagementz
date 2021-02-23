@@ -23,6 +23,9 @@ N | Time | Areas | Position | Location | Client | Project
 
 # 🔍 About Myself
 
+![](https://media.giphy.com/media/NQSZ1MVGLKuGibvJzv/giphy.gif)
+
+
 > The following is a _Brief Overview_ of my capabilities.
  
 > For further details please visit ↗️💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
@@ -35,12 +38,23 @@ N | Time | Areas | Position | Location | Client | Project
 
 ## 📚 Credentials
 
+> The following is a _Brief Overview_ of my capabilities.
+ 
+> For further details please visit ↗️💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
+
 N | Type | Proficiencies
 --- | --- | --- 
 1 | Masters | Clinical Research & Pharmacovigilance
 2 | Bachelors | Biomedical Sciences 
 3 | Diplomas | Multiple Tech and Non Tech Areas
 4 | Certifications | Mixture of Information Security + Wide range of technologies
+5 | InfoSec | Splunk 
+
+# 🤝 Get in touch 
+
+> For further details please visit ↗️💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
+
+
 
 
 
