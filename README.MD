@@ -1,4 +1,5 @@
-[[_TOC_]]
+
+-[Greetings & Salutations](#-👋-greetings-&-salutations)
 
 ---
 
