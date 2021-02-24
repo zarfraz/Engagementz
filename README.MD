@@ -1,5 +1,3 @@
-<p align="center">
-
 # Table of Contents
 
 - [1. 👋 Greetings and Salutations](#-greetings-and-salutations)
@@ -9,6 +7,7 @@
   * [3.1 🥊 Skills](#-skills)
   * [3.2 📚 Credentials](#-credentials)
 - [4. 🤝 Get in touch](#-get-in-touch)
+- [5. ☕ BuyMeACryptoCoffee](#-buymeacryptcoffee)
 
 ---
 
@@ -71,7 +70,9 @@ N | Type | Proficiencies
 
 ![](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)
 
-</p>
+# ☕ BuyMeACryptoCoffee
+
+> Consider donating me a cup of coffee via an anonymous crypto donation by clicking the button below 😂
 
 
 
