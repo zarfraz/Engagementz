@@ -1,7 +1,7 @@
 # Table of Contents
 
 - [👋 Greetings & Salutations](#-greetings-&-salutations)
-  * [👀 Why are you reading this ?](#-why-are-you-reading-this-?)
+  * [👀 Why are you reading this ?](#-why-are-you-reading-this-)
 
 - [Skillsets](#-get-in-touch)
 
