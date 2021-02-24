@@ -1,6 +1,6 @@
 # Table of Contents
 
-- [👋 Greetings & Salutations](#-greetings-salutations)
+- [👋 Greetings and Salutations](#-greetings-and-salutations)
   * [👀 Why are you reading this ?](#-why-are-you-reading-this-)
 - [💼 Professional Experience](#-professional-experience)
 
@@ -8,7 +8,7 @@
 
 ---
 
-# 👋 Greetings & Salutations 
+# 👋 Greetings and Salutations 
 
 ![](https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif)
 
