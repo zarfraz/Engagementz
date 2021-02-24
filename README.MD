@@ -7,7 +7,7 @@
   * [3.1 🥊 Skills](#-skills)
   * [3.2 📚 Credentials](#-credentials)
 - [4. 🤝 Get in touch](#-get-in-touch)
-- [5. ☕ BuyMeACryptoCoffee](#-buymeacryptcoffee)
+- [5. ☕ BuyMeACryptoCoffee](#-buymeacryptocoffee)
 
 ---
 
