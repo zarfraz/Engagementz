@@ -4,7 +4,7 @@
   * [1.1 👀 Why are you reading this ?](#-why-are-you-reading-this-)
 - [2. 💼 Professional Experience](#-professional-experience)
 - [3. 🔍 About Myself](#-about-myself)
-  * [3.1 ⚙️ Skillsets](#-skillsets)
+  * [3.1 ⚙️ Skillsets](#skillsets)
 
 ---
 
