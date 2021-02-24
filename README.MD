@@ -1,10 +1,10 @@
 # Table of Contents
 
-- [👋 Greetings and Salutations](#-greetings-and-salutations)
-  * [👀 Why are you reading this ?](#-why-are-you-reading-this-)
-- [💼 Professional Experience](#-professional-experience)
-
-- [Skillsets](#-get-in-touch)
+- [1. 👋 Greetings and Salutations](#-greetings-and-salutations)
+  * [1.1 👀 Why are you reading this ?](#-why-are-you-reading-this-)
+- [2. 💼 Professional Experience](#-professional-experience)
+- [3. 🔍 About Myself](#-about-myself)
+  * [3.1 ⚙️ Skillsets](#-skillsets)
 
 ---
 
