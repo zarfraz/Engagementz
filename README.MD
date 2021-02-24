@@ -4,7 +4,7 @@
   * [1.1 👀 Why are you reading this ?](#-why-are-you-reading-this-)
 - [2. 💼 Professional Experience](#-professional-experience)
 - [3. 🔍 About Myself](#-about-myself)
-  * [3.1 ⚙️ Skills](#-⚙️-skills)
+  * [3.1 🥊 Skills](#-skills)
   * [3.2 📚 Credentials](#-credentials)
 
 ---
@@ -43,7 +43,7 @@ N | Time | Areas | Position | Location | Client | Project
 > For further details please visit ↗️💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
 
 
-## ⚙️ Skills
+## 🥊 Skills
 
 ![](https://github.com/zarfraz/Engagementz/blob/main/skz.jpg)
 
