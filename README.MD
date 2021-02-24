@@ -1,7 +1,7 @@
 
 -[Greetings & Salutations](#👋-greetings-&-salutations)
 
--[Skillsets](#get-in-touch)
+-[Skillsets](#-get-in-touch)
 
 ---
 
