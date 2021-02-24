@@ -43,7 +43,7 @@ N | Time | Areas | Position | Location | Client | Project
 > For further details please visit ↗️💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
 
 
-## ⚙️ Skillsets 
+## ⚙️ Skillsets
 
 ![](https://github.com/zarfraz/Engagementz/blob/main/skz.jpg)
 
