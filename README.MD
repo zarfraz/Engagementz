@@ -2,7 +2,7 @@
 
 - [👋 Greetings & Salutations](#-greetings-&-salutations)
   * [👀 Why are you reading this ?](#-why-are-you-reading-this-)
-- [# 💼 Professional Experience](-professional-experience)
+- [#💼 Professional Experience](#-professional-experience)
 
 - [Skillsets](#-get-in-touch)
 
