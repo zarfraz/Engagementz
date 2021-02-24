@@ -13,7 +13,7 @@
 
 # 👋 Greetings and Salutations 
 
-![](https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif)
+[![](https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif)](http://sarfraz.xyz/)
 
 This github repository is my "cover letter". If you have found this stub, congratulations 🥳!  your organizations activities have definitely peaked my interest 👍
 
@@ -37,8 +37,7 @@ N | Time | Areas | Position | Location | Client | Project
 
 # 🔍 About Myself
 
-![](https://media.giphy.com/media/NQSZ1MVGLKuGibvJzv/giphy.gif)
-
+[![](https://media.giphy.com/media/NQSZ1MVGLKuGibvJzv/giphy.gif)](http://sarfraz.xyz/)
 
 > The following is a _Brief Overview_ of my capabilities.
  
@@ -47,8 +46,7 @@ N | Time | Areas | Position | Location | Client | Project
 
 ## 🥊 Skills
 
-![](https://github.com/zarfraz/Engagementz/blob/main/skz.jpg)
-
+[![](https://github.com/zarfraz/Engagementz/blob/main/skz.jpg)](http://sarfraz.xyz/)
 
 ## 📚 Credentials
 
@@ -68,7 +66,7 @@ N | Type | Proficiencies
 
 > For further details please visit ↗️💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
 
-![](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)
+[![](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)](http://sarfraz.xyz/)
 
 # ☕ BuyMeACryptoCoffee
 
