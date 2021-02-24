@@ -1,10 +1,10 @@
 # Table of Contents
 
--[Greetings](# Greetings & Salutations)
+-[Greetings](#👋Greetings-&-Salutations)
 
 ---
 
-# Greetings & Salutations 
+# 👋Greetings & Salutations 
 
 ![](https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif)
 
