@@ -1,7 +1,4 @@
-# Table of Contents
-
-- [👋Greetings & Salutations](#👋-Greetings-&-Salutations)
-   * [👀Why are you reading this ?](#👀-Why-are-you-reading-this-?)
+[[_TOC_]]
 
 ---
 
