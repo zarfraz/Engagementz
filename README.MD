@@ -1,6 +1,6 @@
 # Table of Contents
 
--[Greetings & Salutations](# 👋 Greetings & Salutations)
+-[Greetings & Salutations](#👋 Greetings & Salutations)
 
 ---
 
