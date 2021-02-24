@@ -1,5 +1,6 @@
+# Table of Contents
 
--[Greetings & Salutations](#👋-greetings-&-salutations)
+-[Greetings & Salutations](#-greetings-&-salutations)
 
 -[Skillsets](#-get-in-touch)
 
