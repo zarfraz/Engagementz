@@ -1,3 +1,5 @@
+<p align="center">
+
 # Table of Contents
 
 - [1. 👋 Greetings and Salutations](#-greetings-and-salutations)
@@ -69,7 +71,7 @@ N | Type | Proficiencies
 
 ![](https://media.giphy.com/media/VgeGEVTdwzZao/giphy.gif)
 
-
+</p>
 
 
 
