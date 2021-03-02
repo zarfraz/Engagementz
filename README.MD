@@ -22,9 +22,10 @@ This github repository is my "cover letter". If you have found this stub, congra
 > From a credentials perspective I have a Masters in Clincial Research 
 > as well as several technology certifications notably as a Blockchain Consultant. 
 > I have had  the immense pleasure of being a  founder of my own startup which was in the 
-> application of Artificial Intelligence and H ealthcare - Tapiatric. 
+> application of Artificial Intelligence and Healthcare - Tapiatric. 
 > I have been fortunate to work for large scale governemnt projects for several countries, 
 > and most recently working for the American Government, in the development of an A.I based product. 
+> I thoroughly enjoy challenges and making far fetched ideas a reality. 
 
 
 
