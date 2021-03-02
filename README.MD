@@ -17,6 +17,16 @@
 
 This github repository is my "cover letter". If you have found this stub, congratulations 🥳!  your organizations activities have definitely peaked my interest 👍
 
+```
+I consider myself to be a research scientist to be at the juncture of technology and healthcare. 
+From a credentials perspective I have a Masters in Clincial Research 
+as well as several technology certifications. I have had the immense pleasure of being a 
+founder of my own startup which was in the application of Artificial Intelligence 
+an healthcare - Tapiatric. I have been fortunate to work for large scale governemnt projects for several countries, 
+and most recently working for the American Government, in the development of an A.I based product. 
+
+```
+
 ## 👀 Why are you reading this ?
 
 I have sent this URL in response to an open call for speculative applications as advertised on your site. 
