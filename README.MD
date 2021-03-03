@@ -37,6 +37,8 @@ I have sent this URL in response to an open call for speculative applications as
 
 # 💼 Professional Experience 
 
+[![](MP.png)](http://sarfraz.xyz/)
+
 > The following is a _Brief Overview_ of my capabilities.
  
 > For further details please visit ↗️💻 [PROFESSIONAL PROFILE WEBSITE](http://www.sarfraz.xyz)
