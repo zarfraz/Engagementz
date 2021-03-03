@@ -1,6 +1,7 @@
 # Table of Contents
 
 - [1. 👋 Greetings and Salutations](#-greetings-and-salutations)
+  * [1.2 💌 Cover Letter](#-Cover-Letter)
   * [1.1 👀 Why are you reading this ?](#-why-are-you-reading-this-)
 - [2. 💼 Professional Experience](#-professional-experience)
 - [3. 🔍 About Myself](#-about-myself)
@@ -17,6 +18,7 @@
 
 This github repository is my "cover letter". If you have found this stub, congratulations 🥳!  your organizations activities have definitely peaked my interest 👍
 
+## 💌 Cover Letter
 
 > I consider myself to be a research scientist at the juncture of technology and healthcare. 
 > From a credentials perspective I have a Masters in Clincial Research 
